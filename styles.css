@@ -1,0 +1,45 @@
+/* css for index.html */
+
+.odin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.list-links {
+    text-align: center;
+    list-style-type: none;
+
+}
+
+.page_bg {
+    background: rgba(238, 255, 0, 0.527)
+}
+
+a:link, a:visited {
+    background-color: rgb(0, 17, 255);
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+a:hover, a:active {
+    background-color: rgb(117, 0, 252); 
+}
+
+/* For tres leches html */
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
